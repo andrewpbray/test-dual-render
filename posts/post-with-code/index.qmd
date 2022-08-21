@@ -1,0 +1,14 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2022-08-20"
+categories: [news, code, analysis]
+image: "image.jpg"
+format:
+    html: default
+    pdf: default
+---
+
+[[PDF]{.btn .btn-primary}](index.pdf)
+
+This is a post with executable code.
